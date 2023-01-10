@@ -1,6 +1,6 @@
 ---
-title: "excerciseplotly"
-author: "Linli Zhou"
+title: "Interactive Plotly Webpage"
+author: "Linli"
 date: "2023-01-10"
 output: 
   ioslides_presentation:

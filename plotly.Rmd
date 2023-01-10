@@ -1,6 +1,6 @@
 ---
-title: "excerciseplotly"
-author: "Linli Zhou"
+title: "Interactive Plotly Webpage"
+author: "Linli"
 date: "`r Sys.Date()`"
 output: 
   ioslides_presentation:
